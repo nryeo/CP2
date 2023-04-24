@@ -25,11 +25,11 @@ Teammate: Hyejin Oh(@nryeo), Youngjo Choi(@stebechoi)
 - 성별, 직업, 지역 등의 데이터 수가 차이가 많이 나서 사용자 프로필 기반 추천이 어려움
 
 ### RecSystem
-- CB / CF / SVD
-- MF / FM / DeepFM
+- [CB / CF / SVD](https://github.com/stebechoi/CP2/tree/Hwkdir)
+- [MF / FM / DeepFM](https://github.com/stebechoi/CP2/tree/YJ)
 
 ### Application
-- Hybrid Filtering
-  - 비회원/신규회원/복귀회원의 경우 rating이 적거나, 과거와 동일한 취향으로 단정할 수 없다.: CB+CF 적용
+- Hybrid Recommendation system
+  - 비회원/신규회원/복귀회원의 경우 rating이 적거나, 과거와 동일한 취향으로 단정할 수 없다.: CB+CF 적용 </br>
     → 좋아하는 영화가 주어지면, 내용 기반 추천 5개, CF_KNN기반 추천 5개로 총 10개의 영화 추천리스트 반환
     
