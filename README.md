@@ -25,8 +25,8 @@ Teammate: Hyejin Oh(@nryeo), Youngjo Choi(@stebechoi)
 - 성별, 직업, 지역 등의 데이터 수가 차이가 많이 나서 사용자 프로필 기반 추천이 어려움
 
 ### RecSystem
-- [CB / CF / SVD](https://github.com/stebechoi/CP2/tree/Hwkdir)
-- [MF / FM / DeepFM](https://github.com/stebechoi/CP2/tree/YJ)
+- [CB / CF / SVD](https://github.com/nryeo/CP2/tree/Hwkdir)
+- [MF / FM / DeepFM](https://github.com/nryeo/CP2/tree/YJ)
 
 ### Application
 - Hybrid Recommendation system
